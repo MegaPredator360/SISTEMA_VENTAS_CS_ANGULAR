@@ -1,0 +1,12 @@
+.campoFormulario{
+  display: flex;
+  align-items: flex-start;
+}
+
+.botonBuscar{
+  width: 150px;
+}
+
+mat-form-field{
+  margin-right: 10px;
+}

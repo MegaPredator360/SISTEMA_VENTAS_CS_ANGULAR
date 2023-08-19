@@ -1,0 +1,12 @@
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.deps.json
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.csproj.AssemblyReference.cache
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.AssemblyInfo.cs
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DTO\obj\Debug\net7.0\refint\SistemaVenta.DTO.dll
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DTO\obj\Debug\net7.0\ref\SistemaVenta.DTO.dll

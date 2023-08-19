@@ -1,0 +1,54 @@
+<mat-toolbar color="primary">
+  <mat-toolbar-row>
+    <h1 style="margin: 0px;">Sistema Venta</h1>
+    <button mat-icon-button (click)="sidenav.toggle();">
+      <mat-icon>menu</mat-icon>
+    </button>
+    <span style="flex: 1 1 auto;"></span>
+    <label style="font-size: 14px; margin-right: 20px;">{{ correoUsuario }} | {{ rolUsuario }}</label>
+    <button mat-icon-button (click)="cerrarSesion()">
+      <mat-icon>logout</mat-icon>
+    </button>
+  </mat-toolbar-row>
+</mat-toolbar>
+<mat-sidenav-container>
+  <mat-sidenav #sidenav opened="false" mode="side" style="width: 200px;">
+    <mat-nav-list>
+      <mat-list-item routerLink="/Pages/Dashboard" *ngIf="rolUsuario == 'Administrador'">
+        <mat-icon matListItemIcon style="color: black;">dashboard</mat-icon>
+        <div mat-line>Dashboard</div>
+      </mat-list-item>
+      <mat-list-item routerLink="/Pages/Usuario" *ngIf="rolUsuario == 'Administrador'">
+        <mat-icon matListItemIcon style="color: black;">group</mat-icon>
+        <div mat-line>Usuarios</div>
+      </mat-list-item>
+      <mat-list-item routerLink="/Pages/Producto" *ngIf="rolUsuario == 'Administrador' || rolUsuario == 'Supervisor'">
+        <mat-icon matListItemIcon style="color: black;">collections_bookmark</mat-icon>
+        <div mat-line>Productos</div>
+      </mat-list-item>
+      <mat-list-item routerLink="/Pages/Venta">
+        <mat-icon matListItemIcon style="color: black;">currency_exchange</mat-icon>
+        <div mat-line>Venta</div>
+      </mat-list-item>
+      <mat-list-item routerLink="/Pages/HistorialVenta">
+        <mat-icon matListItemIcon style="color: black;">edit_note</mat-icon>
+        <div mat-line>Historial Ventas</div>
+      </mat-list-item>
+      <mat-list-item routerLink="/Pages/Reporte" *ngIf="rolUsuario == 'Administrador' || rolUsuario == 'Supervisor'">
+        <mat-icon matListItemIcon style="color: black;">receipt</mat-icon>
+        <div mat-line>Reportes</div>
+      </mat-list-item>
+      <!--
+      <mat-list-item *ngFor="let menu of listaMenus" [routerLink]="menu.url">
+        <mat-icon matListItemIcon style="color: black;">{{ menu.icono }}</mat-icon>
+        <div mat-line>{{ menu.nombre }}</div>
+      </mat-list-item>
+      -->
+    </mat-nav-list>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <div style="height: 90vh;">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>

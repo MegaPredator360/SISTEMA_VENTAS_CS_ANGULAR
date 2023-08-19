@@ -1,0 +1,15 @@
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DAT\bin\Debug\net7.0\SistemaVenta.DAT.deps.json
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DAT\bin\Debug\net7.0\SistemaVenta.DAT.dll
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DAT\bin\Debug\net7.0\SistemaVenta.DAT.pdb
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DAT\obj\Debug\net7.0\SistemaVenta.DAT.csproj.AssemblyReference.cache
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DAT\obj\Debug\net7.0\SistemaVenta.DAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DAT\obj\Debug\net7.0\SistemaVenta.DAT.AssemblyInfoInputs.cache
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DAT\obj\Debug\net7.0\SistemaVenta.DAT.AssemblyInfo.cs
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DAT\obj\Debug\net7.0\SistemaVenta.DAT.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DAT\obj\Debug\net7.0\SistemaVenta.DAT.dll
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DAT\obj\Debug\net7.0\refint\SistemaVenta.DAT.dll
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DAT\obj\Debug\net7.0\SistemaVenta.DAT.pdb
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DAT\obj\Debug\net7.0\ref\SistemaVenta.DAT.dll
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DAT\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DAT\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\Aaron\source\repos\TestingAngular\BackEndAPI\SistemaVenta.DAT\obj\Debug\net7.0\SistemaVenta.DAT.csproj.CopyComplete
